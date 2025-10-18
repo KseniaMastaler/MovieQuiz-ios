@@ -145,7 +145,7 @@ final class MovieQuizViewController: UIViewController {
     }
 
     // MARK: - Models
-    struct QuizQuestion {
+    private struct QuizQuestion {
         let image: String
         let text: String
         let correctAnswer: Bool
