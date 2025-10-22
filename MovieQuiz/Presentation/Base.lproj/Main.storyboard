@@ -58,7 +58,7 @@
                                                 <color key="backgroundColor" name="YP White"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                                <state key="normal" title="нет">
+                                                <state key="normal" title="Нет">
                                                     <color key="titleColor" name="YP Black"/>
                                                 </state>
                                                 <userDefinedRuntimeAttributes>
@@ -75,7 +75,7 @@
                                                 <color key="backgroundColor" name="YP White"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                                <state key="normal" title="да">
+                                                <state key="normal" title="Да">
                                                     <color key="titleColor" name="YP Black"/>
                                                 </state>
                                                 <userDefinedRuntimeAttributes>
@@ -108,8 +108,8 @@
                         <outlet property="counterLabel" destination="LTT-fM-IwJ" id="8Mk-Pn-k86"/>
                         <outlet property="imageView" destination="ZY4-9b-4jW" id="tm7-Ld-Dd2"/>
                         <outlet property="noButton" destination="t1N-eX-jS8" id="eEq-hw-Vaj"/>
-                        <outlet property="questionTitleLabel" destination="xMK-54-Uie" id="ZXj-uE-pcN"/>
-                        <outlet property="textLabel" destination="6Ir-03-oB5" id="Sxy-58-gVy"/>
+                        <outlet property="questionTitleLabel" destination="6Ir-03-oB5" id="dpt-9q-jJF"/>
+                        <outlet property="textLabel" destination="xMK-54-Uie" id="zAP-pP-rzr"/>
                         <outlet property="yesButton" destination="oC2-cV-mdb" id="AL1-g6-GKI"/>
                     </connections>
                 </viewController>
